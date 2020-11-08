@@ -5,3 +5,4 @@ export * from './ContentCard';
 export * from './FeatureImage';
 export * from './Footer';
 export * from './Nav';
+export * from './Pagination';
