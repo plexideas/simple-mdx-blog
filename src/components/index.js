@@ -8,4 +8,5 @@ export * from './Footer';
 export * from './Nav';
 export * from './Pagination';
 export * from './Post';
+export * from './Seo';
 export * from './Table';

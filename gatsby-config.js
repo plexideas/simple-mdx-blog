@@ -1,4 +1,12 @@
 module.exports = {
+  siteMetadata: {
+    title: "My MDX Blog",
+    description: "A simple blog built with Gatsby and MDX",
+    url: "https://plexideas.dev/",
+    image: "/office.jpg",
+    twitterUsername: "@8bitago",
+    author: "Sergei Sakharovskii by course Skillthrive"
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
